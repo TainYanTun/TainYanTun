@@ -11,6 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Exploring+Technology;Learning+Every+Day;Future+Software+Developer;Call+Me+Derek" alt="Typing SVG" />
 </p>
 
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainYanTun&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /></p>
+
+
 ## 🎓 Currently Studying
 
 - Programming Fundamentals
@@ -61,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TainYanTun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TainYanTun&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainYanTun&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TainYanTun&theme=tokyonight" width="45%" alt="Profile Summary">
 </p>
 
 ## 🔗 Connect with Me. (JUST DO IT!)
