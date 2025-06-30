@@ -1,4 +1,6 @@
-<h1 align="center">👨‍💻 Hello There! I'm <strong>Tain Yan Tun</strong> (Derek)</h1>
+<h1 align="center">
+  👋 Hello there! I'm <em>Tain Yan Tun</em> (𝐃𝐄𝐑𝐄𝐊)
+</h1>
 <h3 align="center">💻 Code Conflicter | 🎓 IT Student | 🔍 Tech Explorer</h3>
 
 <p align="center">
