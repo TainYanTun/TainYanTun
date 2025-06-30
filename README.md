@@ -70,13 +70,7 @@
   | **[My Portfolio](https://github.com/TainYanTun/My-Portfolio)** | Professional portfolio website | Next.js, Tailwind CSS |
   | **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)** | Cybersecurity hackathon project | React, Node.js, MongoDB |
   
-</div>
-
----
-
-## 📬 Let's Connect
-
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k1bWp1MW1jcnpoMmhhZ2dkNWp1Nmo2dHRzZ3F5ODZkZm4xcHlwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/97Kh95xbTPCpONLtbg/giphy.gif" alt="Description" width="500" height="500" /></p>
+</div><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tainyantun/">
