@@ -73,10 +73,10 @@
   <a href="https://www.linkedin.com/in/tainyantun/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=40&width=150" alt="LinkedIn" />
   </a>
-  <a href="[https://www.facebook.com/yourfacebookprofile](https://www.facebook.com/Leotainyan/)">
+  <a href="https://www.facebook.com/Leotainyan/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&height=40&width=150" alt="Facebook" />
   </a>
-  <a href="[https://www.instagram.com/yourinstagramhandl](https://www.instagram.com/derek_tainyan/)e">
+  <a href="https://www.instagram.com/derek_tainyan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=40&width=150" alt="Instagram" />
   </a>
   <a href="mailto:leotainyan18@gmail.com">
