@@ -67,8 +67,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TainYanTun&theme=tokyonight" width="45%" alt="Profile Summary">
 </p>
 
-## 🔗 Connect with Me. (JUST DO IT!)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tainyantun/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=40&width=150" alt="LinkedIn" />
