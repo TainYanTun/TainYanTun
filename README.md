@@ -76,6 +76,8 @@
 
 ## 📬 Let's Connect
 
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k1bWp1MW1jcnpoMmhhZ2dkNWp1Nmo2dHRzZ3F5ODZkZm4xcHlwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/97Kh95xbTPCpONLtbg/giphy.gif" alt="Description" width="500" height="500" /></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tainyantun/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
