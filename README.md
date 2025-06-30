@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BlenpmN3NmemgwYTIzYWpuNWNvdXRtY2Ixenpld2ZjMG94MnN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" width="500" alt="neon line" />
+</p>
+
 <h1 align="center">
   👋 Hello there! I'm <em>Tain Yan Tun</em> (𝐃𝐄𝐑𝐄𝐊)
 </h1>
