@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hello there! I'm <em>Tain Yan Tun</em> (𝐃𝐄𝐑𝐄𝐊)
 </h1>
-<h3 align="center">💻 Code Conflicter | 🎓 IT Student | 🔍 Tech Explorer</h3>
+<h3 align="center"> Aspiring Developer | IT Student | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmNnIwdmwwY2t5c2VxMjN6cHB6MTNtczh2eTBhZGVsNzZiMGV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y8tLxq4uGuIWFFIOQW/giphy.gif" width="500" alt="neon line" />
