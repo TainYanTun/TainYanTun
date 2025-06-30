@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BlenpmN3NmemgwYTIzYWpuNWNvdXRtY2Ixenpld2ZjMG94MnN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" width="500" alt="neon line" />
-</p>
-
 <h1 align="center">
   👋 Hello there! I'm <em>Tain Yan Tun</em> (𝐃𝐄𝐑𝐄𝐊)
 </h1>
@@ -18,6 +14,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&width=435&lines=Building+the+future+with+code;Full-stack+enthusiast;Continuous+learner;Open-source+contributor" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BlenpmN3NmemgwYTIzYWpuNWNvdXRtY2Ixenpld2ZjMG94MnN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" width="500" alt="neon line" />
 </p>
 
 ---
