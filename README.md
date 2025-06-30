@@ -16,6 +16,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&width=435&lines=Building+the+future+with+code;Full-stack+enthusiast;Continuous+learner;Open-source+contributor" alt="Typing animation" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/saadeghi/browser-game">
+    <img src="https://raw.githubusercontent.com/saadeghi/browser-game/main/public/screenshot.png" width="600" alt="Browser Game">
+  </a>
+  <br>
+  <sub><em>Click image to play</em></sub>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
