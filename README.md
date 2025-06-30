@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello There! I'm <strong>Tain Yan Tun</strong> (Derek)</h1>
-<h3 align="center"> Code Conflicter | IT Student | Tech Explorer</h3>
+<h1 align="center">👨‍💻 Hello There! I'm <strong>Tain Yan Tun</strong> (Derek)</h1>
+<h3 align="center">💻 Code Conflicter | 🎓 IT Student | 🔍 Tech Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/TainYanTun">
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Featured Projects
 
 <div align="center">
   
