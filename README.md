@@ -7,10 +7,6 @@
 <h3 align="center"> Aspiring Developer | IT Student | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pmNnIwdmwwY2t5c2VxMjN6cHB6MTNtczh2eTBhZGVsNzZiMGV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y8tLxq4uGuIWFFIOQW/giphy.gif" width="500" alt="neon line" />
-</p>
-
-<p align="center">
   <a href="https://github.com/TainYanTun">
     <img src="https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
   </a>
@@ -23,9 +19,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&width=435&lines=Building+the+future+with+code;Full-stack+enthusiast;Continuous+learner;Open-source+contributor" alt="Typing animation" />
 </p>
 
----
 
-## 🛠️ Tech Stack
+<h3 align="center"><p>Tech Stacks</p></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -55,10 +50,10 @@
 
 ---
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="40" />
   <p>Github Status</p>
-</h2>
+</h3>
 
 <div align="center">
   
