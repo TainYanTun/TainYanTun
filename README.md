@@ -1,4 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="1000" alt="neon line" />
 <h1 align="center">
+
   👋 Hello there! I'm <em>Tain Yan Tun</em> (𝐃𝐄𝐑𝐄𝐊)
 </h1>
 <h3 align="center"> Aspiring Developer | IT Student | Tech Explorer</h3>
