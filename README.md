@@ -76,7 +76,7 @@
   |---------|-------------|--------------|
   | **[My Portfolio](https://github.com/TainYanTun/My-Portfolio)** | Professional portfolio website | Next.js, Tailwind CSS |
   | **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)** | Cybersecurity hackathon project | React, Next.js, MongoDB |
-  | **[Flickshare](https://github.com/nyilynnhtwe/JitCyber)** | Decentralized Worldchain movie review mini app | Onchain, Next.js |
+  | **[Flickshare](https://flickshare-landing.vercel.app/)** | Decentralized movie review mini app | Worldchain, Next.js |
   
 </div><br>
 
