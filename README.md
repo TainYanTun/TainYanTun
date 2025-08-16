@@ -75,7 +75,8 @@
   | Project | Description | Technologies |
   |---------|-------------|--------------|
   | **[My Portfolio](https://github.com/TainYanTun/My-Portfolio)** | Professional portfolio website | Next.js, Tailwind CSS |
-  | **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)** | Cybersecurity hackathon project | React, Node.js, MongoDB |
+  | **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)** | Cybersecurity hackathon project | React, Next.js, MongoDB |
+  | **[Flickshare](https://github.com/nyilynnhtwe/JitCyber)** | Decentralized Worldchain movie review mini app | Onchain, Next.js |
   
 </div><br>
 
