@@ -74,8 +74,6 @@ I'm junior student pursuing Becholar of Science in Information Technology. For n
 </table>
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TainYanTun&theme=github-compact&bg_color=0D1117&hide_border=true&area=true&color=6366f1&line=6366f1&point=ffffff)
-
 ---
 
 ## 🎯 Featured Projects
