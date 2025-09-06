@@ -89,7 +89,7 @@ I'm junior student pursuing Becholar of Science in Information Technology. For n
 ### 🔒 **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)**
 **Cybersecurity hackathon project focused on threat detection**
 - **Tech Stack:** React, Next.js, MongoDB, Node.js
-- **Features:** Real-time monitoring, threat analysis, secure authentication
+- **Features:** Gamify learning quiz section, secure authentication
 - [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/nyilynnhtwe/JitCyber)
 
 ### 🎬 **[Flickshare (World-chain)](https://flickshare-landing.vercel.app/)**
