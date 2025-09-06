@@ -23,8 +23,13 @@ I'm junior student pursuing Becholar of Science in Information Technology. For n
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,html,css,react,next,tailwind,nodejs,express,mysql,mongodb,git,github,vercel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,html,css,bootstrap,react,r,next,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,idea,notion,vim,figma,vercel,linux)](https://skillicons.dev)
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
