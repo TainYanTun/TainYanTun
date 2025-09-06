@@ -22,6 +22,7 @@ I'm junior student pursuing Becholar of Science in Information Technology. For n
 ---
 
 ### 🛠️ Tech Stack
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,html,css,bootstrap,react,r,next,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,idea,notion,vim,figma,vercel,linux)](https://skillicons.dev)
 
