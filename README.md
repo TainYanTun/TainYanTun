@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm junior student pursuing Becholar of Science in Information Technology. For now I am focused on full-stack development in modern web technologies, open-source contributions and Data Analytic career onward.
+I'm junior student pursuing Bachelor of Science in Information Technology. For now I am focused on full-stack development in modern web technologies, open-source contributions and Data Analytic career onward.
 
 ### 💡 What I'm up to:
 - 🔭  Building exciting projects with React, Next.js, and applying data analytics to solve real-world problems
