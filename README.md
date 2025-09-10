@@ -14,7 +14,7 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 
 ### 💡 What I'm up to:
 - 🔭  Building exciting projects with React, Next.js, and applying data analytics to solve real-world problems
-- 🌱  Learning advanced TypeScript patterns, Node.js backend development, and data-driven decision-making
+- 🌱  Learning advanced TypeScript patterns, experimenting backend development, and data-driven decision-making
 - 📊  Exploring data visualization, business intelligence tools, and predictive analytics
 - 👯  Looking to collaborate on open-source projects, hackathons, and analytics-driven applications
 - 💬  Ask me about web development, data analytics, JavaScript, or tech trends
