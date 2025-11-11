@@ -60,28 +60,6 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 
 ---
 
-## 🎯 Featured Projects
-
-### 🌟 **[My Portfolio](https://github.com/TainYanTun/My-Portfolio)**
-**Professional portfolio website showcasing my skills and projects**
-- **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-- **Features:** Responsive design, smooth animations, contact form
-- [![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=flat-square&logo=vercel)](https://your-portfolio-url.com)
-
-### 🔒 **[JitCyber](https://github.com/nyilynnhtwe/JitCyber)**
-**Cybersecurity hackathon project focused on threat detection**
-- **Tech Stack:** React, Next.js, MongoDB, Node.js
-- **Features:** Gamify learning quiz section, secure authentication
-- [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/nyilynnhtwe/JitCyber)
-
-### 🎬 **[Flickshare (World-chain)](https://flickshare-landing.vercel.app/)**
-**Decentralized film review mini app on blockchain**
-- **Tech Stack:** Blockchain, Next.js, Web3, Smart Contracts
-- **Features:** Decentralized reviews, token rewards, community voting
-- [![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=flat-square&logo=vercel)](https://flickshare-landing.vercel.app/)
-
----
-
 ## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TainYanTun&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
