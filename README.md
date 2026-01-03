@@ -1,3 +1,4 @@
+
 # 👋 Hello there! I'm **Tain Yan Tun** (𝐃𝐄𝐑𝐄𝐊)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366f1&vCenter=true&width=600&lines=Aspiring+Developer+%7C+IT+Student+%7C+Tech+Explorer;Building+the+future+with+code;Full-stack+enthusiast;Continuous+learner;Open-source+contributor" alt="Typing animation" />
@@ -10,8 +11,13 @@
 
 ## 🚀 About Me
 
-Junior IT student passionate about full-stack web development and data-driven problems. Building modern web applications with React and Next.js
+I'm junior student pursuing Bachelor of Science in Information Technology. For now I am focused on full-stack development in modern web technologies, open-source contributions and Data Science career onward.
 
+### 💡 What I'm up to: 
+- 🔭 Building exciting projects with React, Next.js, and applying data analytics to solve real-world problems
+-  🌱 Learning advanced TypeScript patterns, experimenting backend development, and data-driven decision-making
+-  📊 Exploring data visualization, business intelligence tools, and predictive analytics
+- 👯 Looking to collaborate on open-source projects, hackathons, and analytics-driven applications
 ---
 
 ### 🛠️ Tech Stack (Tools & Libraries Included)
@@ -24,38 +30,6 @@ Junior IT student passionate about full-stack web development and data-driven pr
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="left">
-<table>
-<tr>
-<td width="33%">
-
-![Derek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TainYanTun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1)
-
-</td>
-<td width="33%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TainYanTun&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&hide=html,css)
-
-</td>
-<td width="33%">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TainYanTun&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TainYanTun&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
