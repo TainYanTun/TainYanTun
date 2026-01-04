@@ -18,6 +18,11 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 -  🌱 Learning advanced TypeScript patterns, experimenting backend development, and data-driven decision-making
 -  📊 Exploring data visualization, business intelligence tools, and predictive analytics
 - 👯 Looking to collaborate on open-source projects, hackathons, and analytics-driven applications
+
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7e5dcf99021e6e675cd73a546433884c33e44bf3">
+  <img src="https://images.datacamp.com/image/upload/v1732727576/Certification/Partnerships/github-foundations.png" width="200"/>
+</a>
+
 ---
 
 ### 🛠️ Tech Stack (Tools & Libraries Included)
