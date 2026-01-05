@@ -52,12 +52,6 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 
 ---
 
-## 📈 Contribution Graph
-
-[![Derek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TainYanTun&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!
