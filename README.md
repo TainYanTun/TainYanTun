@@ -1,7 +1,7 @@
 
 # 👋 Hello there! I'm **Tain Yan Tun** (𝐃𝐄𝐑𝐄𝐊)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366f1&vCenter=true&width=600&lines=Aspiring+Developer+%7C+IT+Student+%7C+Tech+Explorer;Building+the+future+with+code;Full-stack+enthusiast;Continuous+learner;Open-source+contributor" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366f1&vCenter=true&width=600&lines=Aspiring+Engineer;Building+the+future+with+code;Full-stack+developer;Continuous+learner;Open-source+contributor" alt="Typing animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
