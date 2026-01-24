@@ -19,23 +19,34 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 -  📊 Exploring data visualization, business intelligence tools, and predictive analytics
 - 👯 Looking to collaborate on open-source projects, hackathons, and analytics-driven applications
 
-<p align="left">
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5c4f948e76c4be8ce4456b2718483f0af3c6b5c1" target="_blank">
-    <img
-      src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/AI_Fundamentals_-_badge_with_outline.png"
-      alt="DataCamp AI Fundamentals Certificate"
-      width="140"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7e5dcf99021e6e675cd73a546433884c33e44bf3" target="_blank">
-    <img
-      src="https://images.datacamp.com/image/upload/v1732727576/Certification/Partnerships/github-foundations.png"
-      alt="DataCamp GitHub Foundations Certificate"
-      width="175"
-    />
-  </a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/ce104661-13e3-4c3e-8d44-906a1db07f41/public_url">
+        <img src="GoogleDataAnalytics-Badge.png" alt="Google Data Analytics Badge" width="160"/>
+      </a>
+      <br/>
+      <sub><b>Google Data Analytics</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7e5dcf99021e6e675cd73a546433884c33e44bf3">
+        <img src="https://images.datacamp.com/image/upload/v1732727576/Certification/Partnerships/github-foundations.png" alt="GitHub Foundations" width="150"/>
+      </a>
+      <br/>
+      <sub><b>GitHub Foundations</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5c4f948e76c4be8ce4456b2718483f0af3c6b5c1">
+        <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/AI_Fundamentals_-_badge_with_outline.png" alt="AI Fundamentals" width="135"/>
+      </a>
+      <br/>
+      <sub><b>AI Fundamentals</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
+
 
 ---
 
