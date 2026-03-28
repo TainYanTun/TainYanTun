@@ -36,11 +36,11 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
       <sub><b>GitHub Foundations</b></sub>
     </td>
     <td align="center" width="200">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/5c4f948e76c4be8ce4456b2718483f0af3c6b5c1">
-        <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/AI_Fundamentals_-_badge_with_outline.png" alt="AI Fundamentals" width="135"/>
+      <a href="https://www.credly.com/badges/498aa02b-93cb-49b0-ad68-e1075ffdd0f2/linked_in_profile">
+        <img src="aws-academy-graduate-cloud-foundations.png" alt="AWS Cloud Foundation" width="155"/>
       </a>
       <br/>
-      <sub><b>AI Fundamentals</b></sub>
+      <sub><b>AWS Cloud Foundation</b></sub>
     </td>
   </tr>
 </table>
