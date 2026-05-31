@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm senior student pursuing Bachelor of Science in Information Technology, specialized in full-stack development, Data Science and Engineering.
+I am an undergraduate Senior pursuing a Bachelor of Science in Information Technology, specializing in full-stack software development, data engineering pipelines, and data science methodologies.
 
 ### 💡 What I'm up to: 
 - 🛠️ **Data Engineering:** Main focus - In process of mastering relational databases, query optimization, data modeling, and shell scripting.
