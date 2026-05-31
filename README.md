@@ -11,13 +11,17 @@
 
 ## 🚀 About Me
 
-I'm junior student pursuing Bachelor of Science in Information Technology. For now I am focused on full-stack development in modern web technologies, open-source contributions and Data Science career onward.
+I'm senior student pursuing Bachelor of Science in Information Technology. As of now, I am focused on full-stack development, Data Science and Engineering.
 
 ### 💡 What I'm up to: 
-- 🔭 Building exciting projects with React, Next.js, and applying data analytics to solve real-world problems
--  🌱 Learning advanced TypeScript patterns, experimenting backend development, and data-driven decision-making
--  📊 Exploring data visualization, business intelligence tools, and predictive analytics
-- 👯 Looking to collaborate on open-source projects, hackathons, and analytics-driven applications
+- 🛠️ **Data Engineering:** Main focus - In process of mastering relational databases, query optimization, data modeling, and shell scripting.
+- 🔬 **Data Science & Research:** Modeling geospatial, event, and demographic datasets for machine learning and quantitative research
+- ⚙️ **Full-Stack Development:** Architecting fast, minimalist interfaces using Next.js and TypeScript for various system
+- 👯 **Collaboration:** Open to collaborating on open-source data tools, hackathons, and backend/data architecture projects.
+
+<table align="left">
+  <tr>
+    <td align="center" width="200">
 
 <table align="left">
   <tr>
@@ -58,6 +62,7 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -65,7 +70,7 @@ I'm junior student pursuing Bachelor of Science in Information Technology. For n
 
 ## 🤝 Let's Connect
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!
+Open to professional connections, open-source collaborations, or discussions on data systems and architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainyantun/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leotainyan18@gmail.com)
