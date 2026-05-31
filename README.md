@@ -22,10 +22,6 @@ I'm senior student pursuing Bachelor of Science in Information Technology. As of
 <table align="left">
   <tr>
     <td align="center" width="200">
-
-<table align="left">
-  <tr>
-    <td align="center" width="200">
       <a href="https://www.credly.com/badges/ce104661-13e3-4c3e-8d44-906a1db07f41/public_url">
         <img src="GoogleDataAnalytics-Badge.png" alt="Google Data Analytics Badge" width="160"/>
       </a>
