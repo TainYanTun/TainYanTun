@@ -15,8 +15,8 @@ I am an undergraduate Senior pursuing a Bachelor of Science in Information Techn
 
 ### 💡 What I'm up to: 
 - 🛠️ **Data Engineering:** Main focus - In process of mastering relational databases, data modeling, and shell scripting.
-- 🔬 **Data Science & Research:** Modeling various datasets for machine learning and quantitative research
-- ⚙️ **Full-Stack Development:** Architecting fast, minimalist interfaces using Next.js and TypeScript for various system
+- 🔬 **Data Science & Research:** Modeling various, complex datasets for machine learning and quantitative research
+- ⚙️ **Full-Stack Development:** Architecting fast, minimalist interfaces using React and TypeScript for various system
 - 👯 **Collaboration:** Open to collaborating on open-source data tools, hackathons, and backend/data architecture projects.
 
 <table align="left">
