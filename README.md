@@ -1,7 +1,14 @@
 
-# 👋 Hello there! I'm **Tain Yan Tun** (𝐃𝐄𝐑𝐄𝐊)
+# 👋 Hello there! I'm **Tain Yan Tun** aka...
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366f1&vCenter=true&width=600&lines=Aspiring+Engineer;Building+the+future+with+code;Full-stack+developer;Continuous+learner;Open-source+contributor" alt="Typing animation" />
+```text
+██████╗░███████╗██████╗░███████╗██╗░░██╗
+██╔══██╗██╔════╝██╔══██╗██╔════╝██║░██╔╝
+██║░░██║█████╗░░██████╔╝█████╗░░█████═╝░
+██║░░██║██╔══╝░░██╔══██╗██╔══╝░░██╔═██╗░
+██████╔╝███████╗██║░░██║███████╗██║░╚██╗
+╚═════╝░╚══════╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
@@ -9,15 +16,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am an undergraduate Senior pursuing a Bachelor of Science in Information Technology, specializing in full-stack software development, data engineering pipelines, and data science methodologies.
+I am an undergrad student in Information Technology, specializing in data engineering, and Machine Learning.
 
-### 💡 What I'm up to: 
-- 🛠️ **Data Engineering:** Main focus - In process of mastering relational databases, data modeling, and shell scripting.
-- 🔬 **Data Science & Research:** Modeling various, complex datasets for machine learning and quantitative research
-- ⚙️ **Full-Stack Development:** Architecting fast, minimalist interfaces using React and TypeScript for various system
-- 👯 **Collaboration:** Open to collaborating on open-source data tools, hackathons, and backend/data architecture projects.
+### Currently Focus Being:
+- **Data Engineering:** In process of mastering building pipelines, data modeling, and shell scripting.
+- **Data Science & Research:** Modeling various, datasets for machine learning and quantitative research
+- **Full-Stack Development:** Architecting fast, minimalist interfaces for various system
+- **Collaboration:** Open to collaborating on open-source data tools and architecture projects.
 
 <table align="left">
   <tr>
@@ -50,7 +57,7 @@ I am an undergraduate Senior pursuing a Bachelor of Science in Information Techn
 
 ---
 
-### 🛠️ Tech Stack (Tools & Libraries Included)
+### Tech Stack (Tools & Libraries Included)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,html,css,bootstrap,react,r,next,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,idea,notion,vim,figma,vercel,linux)](https://skillicons.dev)
@@ -64,7 +71,7 @@ I am an undergraduate Senior pursuing a Bachelor of Science in Information Techn
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Open to professional connections, open-source collaborations, or discussions on data systems and architecture.
 
@@ -75,7 +82,7 @@ Open to professional connections, open-source collaborations, or discussions on 
 
 ---
 
-## ☕ Support My Work
+## Support My Work
 
 If you find my projects helpful or interesting, consider supporting my work!
 
