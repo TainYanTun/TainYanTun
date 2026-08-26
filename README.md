@@ -73,7 +73,7 @@ I am an undergrad student in Information Technology, specializing in data engine
 
 ## Let's Connect
 
-Open to professional connections, open-source collaborations, or discussions on data systems and architecture.
+Open to connections, open-source collaborations, or any discussions (I am likely not avaliable sometimes... So don't take my word)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainyantun/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leotainyan18@gmail.com)
@@ -84,7 +84,7 @@ Open to professional connections, open-source collaborations, or discussions on 
 
 ## Support My Work
 
-If you find my projects helpful or interesting, consider supporting my work!
+If you find my projects helpful or interesting, consider supporting my work.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tainyantun)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/derektainyan)
