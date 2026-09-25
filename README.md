@@ -17,6 +17,10 @@ Undergrad student in Information Technology, specializing in data engineering, a
 - **Full-Stack Development:** Architecting infastructure for systems
 - **Collaboration:** Open to collaborating on open-source data tools and projects.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
 <table align="left">
   <tr>
     <td align="center" width="200">
@@ -59,14 +63,6 @@ Undergrad student in Information Technology, specializing in data engineering, a
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
 
 ---
 
