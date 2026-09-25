@@ -71,12 +71,12 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ## GitHub Stats
 
-<table align="left" width="1000">
+<table align="left" width="900">
   <tr>
     <td colspan="2" align="left">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-dark&amp;hide_border=true&amp;radius=12&amp;days=31" />
-        <img alt="Contribution frequency graph" align="left" width="900" height="350" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-light&amp;hide_border=true&amp;radius=12&amp;days=31" />
+        <img alt="Contribution frequency graph" align="left" width="800" height="350" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-light&amp;hide_border=true&amp;radius=12&amp;days=31" />
       </picture>
     </td>
   </tr>
