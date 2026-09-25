@@ -1,14 +1,5 @@
 
-# 👋 Hello there! I'm **Tain Yan Tun** aka...
-
-```text
-██████╗░███████╗██████╗░███████╗██╗░░██╗
-██╔══██╗██╔════╝██╔══██╗██╔════╝██║░██╔╝
-██║░░██║█████╗░░██████╔╝█████╗░░█████═╝░
-██║░░██║██╔══╝░░██╔══██╗██╔══╝░░██╔═██╗░
-██████╔╝███████╗██║░░██║███████╗██║░╚██╗
-╚═════╝░╚══════╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-```
+# 👋 Hello there! I'm **Tain Yan Tun (DEREK)** 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
@@ -18,13 +9,13 @@
 
 ## About Me
 
-I am an undergrad student in Information Technology, specializing in data engineering, and Machine Learning.
+Undergrad student in Information Technology, specializing in data engineering, and Machine Learning (Well not yet).
 
-### Currently Focus Being:
-- **Data Engineering:** In process of mastering building pipelines, data modeling, and shell scripting.
+#### Currently Focus Being:
+- **Data Engineering:** In process of building pipelines, data modeling, and shell scripting.
 - **Data Science & Research:** Modeling various, datasets for machine learning and quantitative research
-- **Full-Stack Development:** Architecting fast, minimalist interfaces for various system
-- **Collaboration:** Open to collaborating on open-source data tools and architecture projects.
+- **Full-Stack Development:** Architecting infastructure for systems
+- **Collaboration:** Open to collaborating on open-source data tools and projects.
 
 <table align="left">
   <tr>
@@ -73,7 +64,7 @@ I am an undergrad student in Information Technology, specializing in data engine
 
 ## Let's Connect
 
-Open to connections, open-source collaborations, or any discussions (I am likely not avaliable sometimes... So don't take my word)
+Open to connections, open-source collaborations, or any discussions (Likely not available..... sometimes. So don't take my word)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainyantun/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leotainyan18@gmail.com)
