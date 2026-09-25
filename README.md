@@ -14,7 +14,7 @@ Undergrad student in Information Technology, specializing in data engineering, a
 #### Currently Focus Being:
 - **Data Engineering:** In process of building pipelines, data modeling, and shell scripting.
 - **Data Science & Research:** Modeling various, datasets for machine learning and quantitative research
-- **Full-Stack Development:** Architecting infastructure for systems
+- **Systems Development:** Building and integrating backend infrastructure for data-driven applications.
 - **Collaboration:** Open to collaborating on open-source data tools and projects.
 
 <table align="left">
