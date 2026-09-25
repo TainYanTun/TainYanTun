@@ -1,14 +1,6 @@
 
 # 👋 Hello there! I'm **Tain Yan Tun (DEREK)** 
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/TainYanTun?color=6366f1&label=Stars&style=flat-square)](https://github.com/TainYanTun)
@@ -71,6 +63,14 @@ Undergrad student in Information Technology, specializing in data engineering, a
 ---
 
 ## Let's Connect
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 Open to connections, open-source collaborations, or any discussions (Likely not available..... sometimes. So don't take my word)
 
