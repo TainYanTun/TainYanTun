@@ -2,7 +2,11 @@
 # 👋 Hello there! I'm **Tain Yan Tun (DEREK)** 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
