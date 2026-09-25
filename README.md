@@ -73,13 +73,13 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 <table align="left" width="700">
   <tr>
-    <td width="480">
+    <td width="430">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox" />
         <img alt="GitHub stats" height="160" src="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox_light" />
       </picture>
     </td>
-    <td width="400">
+    <td width="300">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox" />
         <img alt="Top languages" height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox_light" />
@@ -88,7 +88,7 @@ Undergrad student in Information Technology, specializing in data engineering, a
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <img alt="Contribution frequency graph" align="left" width="1300" height="230" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=gruvbox&amp;hide_border=true&amp;radius=12&amp;days=31" />
+      <img alt="Contribution frequency graph" align="left" width="690" height="330" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=gruvbox&amp;hide_border=true&amp;radius=12&amp;days=31" />
     </td>
   </tr>
 </table>
