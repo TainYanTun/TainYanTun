@@ -69,8 +69,6 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ---
 
-## GitHub Stats
-
 <table align="left" width="900">
   <tr>
     <td colspan="2" align="left">
