@@ -62,6 +62,14 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
 ## Let's Connect
 
 Open to connections, open-source collaborations, or any discussions (Likely not available..... sometimes. So don't take my word)
