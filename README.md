@@ -1,6 +1,10 @@
 
 # 👋 Hello there! I'm **Tain Yan Tun (DEREK)** 
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/TainYanTun?color=6366f1&label=Stars&style=flat-square)](https://github.com/TainYanTun)
@@ -9,17 +13,13 @@
 
 ## About Me
 
-Undergrad student in Information Technology, specializing in data engineering, and Machine Learning (Well not yet).
+Undergrad student in Information Technology, specializing in data engineering, and Machine Learning (Omw).
 
 #### Currently Focus Being:
 - **Data Engineering:** In process of building pipelines, data modeling, and shell scripting.
 - **Data Science & Research:** Modeling various, datasets for machine learning and quantitative research
 - **Full-Stack Development:** Architecting infastructure for systems
 - **Collaboration:** Open to collaborating on open-source data tools and projects.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
 
 <table align="left">
   <tr>
