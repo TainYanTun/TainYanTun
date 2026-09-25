@@ -1,6 +1,13 @@
 
 # 👋 Hello there! I'm **Tain Yan Tun (DEREK)** 
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox" />
+    <img alt="GitHub streak" height="140" src="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox_light" />
+  </picture>
+</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TainYanTun&color=6366f1&label=Profile+Views&style=flat-square)](https://github.com/TainYanTun)
 [![GitHub Followers](https://img.shields.io/github/followers/TainYanTun?color=6366f1&label=Followers&style=flat-square)](https://github.com/TainYanTun?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/TainYanTun?color=6366f1&label=Stars&style=flat-square)](https://github.com/TainYanTun)
@@ -62,25 +69,31 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=github_dark" />
-    <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;title_color=6366f1&amp;icon_color=6366f1" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;theme=github-dark" />
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;ring=6366f1&amp;fire=6366f1" />
-  </picture>
-</p>
+<table align="left" width="700">
+  <tr>
+    <td width="480">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox" />
+        <img alt="GitHub stats" height="160" src="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox_light" />
+      </picture>
+    </td>
+    <td width="400">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox" />
+        <img alt="Top languages" height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=gruvbox_light" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <img alt="Contribution frequency graph" align="left" width="1300" height="230" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=gruvbox&amp;hide_border=true&amp;radius=12&amp;days=31" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=github_dark" />
-    <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;title_color=6366f1" />
-  </picture>
-</p>
+<br clear="left"/>
 
 ## Let's Connect
 
