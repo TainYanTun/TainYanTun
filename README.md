@@ -62,15 +62,27 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ---
 
-## Let's Connect
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TainYanTun/TainYanTun/gh-pages/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=github_dark" />
+    <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;title_color=6366f1&amp;icon_color=6366f1" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;theme=github-dark" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=TainYanTun&amp;hide_border=true&amp;border_radius=12&amp;ring=6366f1&amp;fire=6366f1" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=github_dark" />
+    <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;title_color=6366f1" />
+  </picture>
+</p>
+
+## Let's Connect
 
 Open to connections, open-source collaborations, or any discussions (Likely not available..... sometimes. So don't take my word)
 
