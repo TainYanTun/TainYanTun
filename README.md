@@ -71,26 +71,12 @@ Undergrad student in Information Technology, specializing in data engineering, a
 
 ## GitHub Stats
 
-<table align="left" width="700">
-  <tr>
-    <td width="430">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=github-dark" />
-        <img alt="GitHub stats" height="160" src="https://github-stats-extended.vercel.app/api?username=TainYanTun&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;theme=github-light" />
-      </picture>
-    </td>
-    <td width="300">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=github-dark" />
-        <img alt="Top languages" height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TainYanTun&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;theme=github-light" />
-      </picture>
-    </td>
-  </tr>
+<table align="left" width="1000">
   <tr>
     <td colspan="2" align="left">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-dark&amp;hide_border=true&amp;radius=12&amp;days=31" />
-        <img alt="Contribution frequency graph" align="left" width="690" height="330" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-light&amp;hide_border=true&amp;radius=12&amp;days=31" />
+        <img alt="Contribution frequency graph" align="left" width="900" height="350" src="https://github-activity-graph.vercel.app/graph?username=TainYanTun&amp;theme=github-light&amp;hide_border=true&amp;radius=12&amp;days=31" />
       </picture>
     </td>
   </tr>
